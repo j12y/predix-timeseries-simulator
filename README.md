@@ -61,7 +61,7 @@ or an unused space sitting around.
 I created a script to help with this as well -- but be careful since this will
 *permanently delete all services in your target space.*
 ```
-python cleanup_space.py
+python delete_all_the_things.py
 ```
 
 ---
