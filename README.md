@@ -8,7 +8,7 @@ Predix Time Series Service.
 
 - [ ] You must have at minimum a [Predix Free Tier](signup) account.
 - [ ] You must have the [Cloud Foundry CLI](cf) and can run `cf login`
-- [ ] You will need PredixPy in your python environment
+- [ ] You will need PredixPy in your python environment `pip install predix`
 
 # Setup
 
